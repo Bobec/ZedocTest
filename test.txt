@@ -1,8 +1,2 @@
 Bob
-<<<<<<< HEAD
-matei
-=======
-Andrei
-
-
->>>>>>> 220f1a1781a0a2d4a5218e31a5e343b8a1fb6ecc
+Matei
