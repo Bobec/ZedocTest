@@ -1,8 +1,5 @@
 Baubau
-<<<<<<< HEAD
 EuCodez
-Bob
-=======
 Bob
 Matei
 Cineva 2
