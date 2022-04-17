@@ -1,2 +1,7 @@
+Baubau
+<<<<<<< HEAD
+EuCodez
+Bob
+=======
 Bob
 Matei
