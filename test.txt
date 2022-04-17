@@ -3,6 +3,9 @@ EuCodez
 Bob
 =======
 Bob
+<<<<<<< HEAD
+Mihnea
+=======
 Andrei
 
 
