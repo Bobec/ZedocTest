@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 Bob
 Mihai
+=======
+Baubau
+<<<<<<< HEAD
+EuCodez
+Bob
+=======
+Bob
+Matei
+Cineva 2
+>>>>>>> c70da8a798f128bf4d4fb67d47d5274980b6c684
